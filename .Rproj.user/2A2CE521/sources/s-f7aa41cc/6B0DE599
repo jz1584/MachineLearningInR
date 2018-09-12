@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530907561858.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6B0DE599",
+    "lastKnownWriteTime" : 1519236054,
+    "last_content_update" : 1519236054,
+    "path" : "~/Machine Learning Project Testing/4. Lecutre 4 Tress, Bagging, Random Forests, Boosting & SVM/4.a_Trees_Bagging_Random_Forests_Boosting_Lecture_Code.R",
+    "project_path" : "4. Lecutre 4 Tress, Bagging, Random Forests, Boosting & SVM/4.a_Trees_Bagging_Random_Forests_Boosting_Lecture_Code.R",
+    "properties" : {
+        "cursorPosition" : "72,0",
+        "scrollLine" : "55"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
